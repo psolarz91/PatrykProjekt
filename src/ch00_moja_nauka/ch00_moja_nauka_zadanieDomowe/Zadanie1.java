@@ -1,4 +1,4 @@
-package ch00_moja_nauka;
+package ch00_moja_nauka.ch00_moja_nauka_zadanieDomowe;
 
 import java.util.Random;
 import java.util.Scanner;
